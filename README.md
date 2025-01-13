@@ -73,6 +73,9 @@ Add more advanced memory handling.
 Integrate with external APIs for expanded functionality.
 Create a GUI interface for better user experience.
 
+## 🚧 Llama3.1-chatbot is under active development. Stay tuned for updates!
+We're constantly improving and adding new features. Keep an eye on the Releases section for updates and new versions!
+
 ## 🤝 Contributing
 Feel free to submit issues or pull requests to improve this project!
 
